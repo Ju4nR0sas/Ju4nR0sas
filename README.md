@@ -35,12 +35,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ju4nR0sas/Ju4nR0sas/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Contacto:</h2>
 
 ###
